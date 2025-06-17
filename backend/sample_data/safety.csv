@@ -1,0 +1,5 @@
+patient_id,treatment,event,severity,serious,outcome,onset,resolution
+P001,Drug A,Headache,Mild,No,Recovered,2024-01-01,2024-01-03
+P002,Drug B,Nausea,Moderate,No,Recovered,2024-01-02,2024-01-04
+P003,Drug A,Fatigue,Severe,Yes,Ongoing,2024-01-03,
+P004,Drug A,Headache,Moderate,No,Recovered,2024-01-05,2024-01-06
